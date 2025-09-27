@@ -24,7 +24,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Vercel](https://single-price-grid-component-wihf.vercel.app/)
+- Solution URL: [Vercel](https://four-card-feature-section-xi-two.vercel.app/)
 - Live Site URL: [mmalabugin.ru/FourCardFeatureSection/](https://mmalabugin.ru/FourCardFeatureSection/)
 
 ## My process
